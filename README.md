@@ -1,4 +1,7 @@
 # Привет, мир!
+## Личная карточка
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderLivanov&theme=default)
+
 ## Достижения
 ![](https://github-profile-trophy.vercel.app/?username=AlexanderLivanov)
 
@@ -13,3 +16,7 @@
 
 ## CodeWars
 ![](https://www.codewars.com/users/TonyAlt/badges/large)
+
+
+## TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/RedCry.png" alt="TryHackMe">
