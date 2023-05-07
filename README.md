@@ -1,2 +1,15 @@
-### HELLO WORLD!
-<script src="https://tryhackme.com/badge/1254800"></script>
+# Привет, мир!
+## Достижения
+![](https://github-profile-trophy.vercel.app/?username=AlexanderLivanov)
+
+## Активность
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlexanderLivanov)
+
+## Языки
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderLivanov&layout=compact)
+
+## Личный вклад
+![](https://github-readme-stats.vercel.app/api?username=AlexanderLivanov)
+
+## CodeWars
+![](https://www.codewars.com/users/TonyAlt/badges/large)
