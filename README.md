@@ -16,9 +16,3 @@
 
 ## CodeWars
 ![](https://www.codewars.com/users/TonyAlt/badges/large)
-
-
-## TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/RedCry.png" alt="TryHackMe">
-
-*обновляется раз в неделю
