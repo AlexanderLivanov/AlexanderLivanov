@@ -18,6 +18,7 @@
 ![](https://www.codewars.com/users/TonyAlt/badges/large)
 
 ## GnuPG key
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1.4.7 (MingW32)
 
@@ -42,3 +43,4 @@ h4kciLT52+yYEiriEgzv8UfdGZ54G6mxOiQDlialgeRFKYaiFIcZjd+p2UgE3RL4
 fngQd7DccjcKijrHTQCglfHO/8pCmDgd7CZciR/+6AMQkHA=
 =3HMf
 -----END PGP PUBLIC KEY BLOCK-----
+```
