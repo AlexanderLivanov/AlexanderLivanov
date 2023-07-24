@@ -7,6 +7,8 @@ Version: 3.1
 GCS d- s:- a--- C++>$ UL+++>$ P L++ E !W+++>$ N- o? K !w-- !O !M- !V !PS !PE Y+ PGP+ t 5 !X !R tv b+ DI D G++ e h+ r--- y--
 ------END GEEK CODE BLOCK------
 ```
+## Вся информация:
+![Metrics](https://metrics.lecoq.io/AlexanderLivanov?template=classic&base.header=0&gists=1&lines=1&config.timezone=Russia%2FMoscow)
 
 ## Личная карточка
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderLivanov&theme=default)
