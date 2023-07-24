@@ -25,6 +25,11 @@ GCS d- s:- a--- C++>$ UL+++>$ P L++ E !W+++>$ N- o? K !w-- !O !M- !V !PS !PE Y+ 
 ## CodeWars
 ![](https://www.codewars.com/users/TonyAlt/badges/large)
 
+## Монетку можно кинуть [сюда](https://yoomoney.ru/quickpay/fundraise/button?billNumber=oK1IzQPniG4.230724&) :)
+[![](https://github.com/AlexanderLivanov/AlexanderLivanov/assets/81980423/778a7a9c-c628-4a97-a973-996ae688f1f4)](https://yoomoney.ru/quickpay/fundraise/button?billNumber=oK1IzQPniG4.230724&)
+
+
+
 ## GnuPG key
 ```
 -----BEGIN PGP MESSAGE-----
