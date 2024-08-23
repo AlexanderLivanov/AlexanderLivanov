@@ -17,7 +17,7 @@ GCS d- s:- a--- C++>$ UL+++>$ P L++ E !W+++>$ N- o? K !w-- !O !M- !V !PS !PE Y+ 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexanderLivanov)
 
 ## Языки
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderLivanov&layout=compact)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderLivanov&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderLivanov&layout=compact))
 
 ## Личный вклад
 ![](https://github-readme-stats.vercel.app/api?username=AlexanderLivanov)
